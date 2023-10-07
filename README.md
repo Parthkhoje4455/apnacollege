@@ -1,2 +1,2 @@
 # apnacollege
-this is repo
+This is apnacollege repo
